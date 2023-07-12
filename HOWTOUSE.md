@@ -1,6 +1,6 @@
 ## 使い方
 
-[5374 for YOUR_CITY](http://YOUR_CITY.domain/ )について説明します。
+[5374 for Kyotango](http://YOUR_CITY.domain/ )について説明します。
 
 * **色でゴミのジャンルを表示**: 一番近いゴミの日とジャンルを上から順に表示しています。
 
