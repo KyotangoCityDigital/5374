@@ -22,6 +22,6 @@ YOUR_CITYが公開しているオープンデータをもとにしています�
 本アプリ及びソースコードの著作権はCode for Kanazawaに帰属します。
 但し、このソースコードは[MPL](http://www.mozilla.org/MPL/2.0/)のもと配布されています。MPLに従えば、どなたでも利用、改変、及び再配布が可能です。
 
-## Contributers in YOUR_CITY
+## Contributers in KyotangoCity
 
-[YOUR_NAME](http://github.com/YOUR_NAME)
+[KyotangoCityDigital](https://github.com/KyotangoCityDigital)
