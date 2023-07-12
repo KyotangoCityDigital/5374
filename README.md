@@ -35,6 +35,11 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 
 ## オープンデータカタログサイトで公開しているデータの自動反映について
 
-オープンデータカタログサイトで公開している[5374アプリ用データセット](https://data.bodik.jp/dataset/262129_5374)内のデータを、「data」ディレクトリ内の同ファイルへ自動で上書きします。  
+オープンデータカタログサイトで公開している[5374アプリ用データセット](https://data.bodik.jp/dataset/262129_5374)内の次のデータを、「data」ディレクトリ内の同ファイルへ自動で上書きします。  
+- 地区の収集スケジュール(area_days.csv)
+- ごみ区分の対象となるごみ種類(target.csv)
+- 収集センターの休止期間(center.csv)
+- ごみの区分(description.csv)
+
 更新タイミングは1日1回。更新の有無は関係なく、無条件で上書きされます。  
-なお、Google App Scriptを利用して、データの更新をしています。  
+なお、Google App Scriptを利用して、ファイルの更新をしています。  
