@@ -1,5 +1,5 @@
-﻿label,sublabel,description,styles,Bgcolor
-可燃ごみ,aaa,,,#ea3b13
+label,sublabel,description,styles,Bgcolor
+可燃ごみ,,,,#ea3b13
 不燃ごみ,,,,#685ecf
 容器包装プラスチック,,,,#27a047
 ペットボトル,,,,#00b7c0
